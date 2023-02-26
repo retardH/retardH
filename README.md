@@ -1,5 +1,4 @@
-hello! I'm trying to learn programming and web development.
-I'm still a newbie but willing to learn anything from courses and seniors' advices.
+hola! I'm junior level front-end web developer. I'm here to share my little projects and learn from seniors.
 
 
 

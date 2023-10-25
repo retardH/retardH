@@ -1,4 +1,4 @@
-### <div align="center">Hi👋🏽 I'm Zarni, Front-end Developer. Nice 2 See You Here.</div>  
+### <div align="center">Hi👋🏽 I'm Zarni, Front-end Developer. nice2SeeYouHere</div>  
   
 
 - 👨‍💻 I’m currently working at Sprite Lightning Technology Co,ltd  

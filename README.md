@@ -1,4 +1,4 @@
-<h4 align="center">Hi👋🏽 I'm Zarni, Front-end Developer.</h4>  
+<h2 align="center">Holla 👋🏽 I'm Zarni, Front-end Engineer</h4>  
   
 
 - 👨‍💻 I’m currently working at Sprite Lightning Technology Co,ltd  
@@ -10,47 +10,31 @@
 - ❓ Ask me about anything related to Javascript and related Frontend Technologies  
   
 
-- ⚡ Fun fact: Tabs all day!  
+- ⚡ Quick Fact: Tabs all day!
+
+  [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htetzarni)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loowmaad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HtetZarni/)
   
 
 <br/>  
 
 
-## My Skill Set  
-
-
-
-### Frontend Tech Stack -  
+<h2>Main Technologies I use</h4>   
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
  ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![Typescript](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+
  
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/retardH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Htet Zarni" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/retardH" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=retardH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=retardH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

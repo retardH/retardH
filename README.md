@@ -26,13 +26,18 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+![VueJs](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=vue.js)
 ![NextJs](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=next.js)
 
  ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+ ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)
+ ![Gitlab](http://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=Gitlab)
+ 
 
 
 

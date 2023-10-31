@@ -1,4 +1,4 @@
-<h2 align="center">Holla 👋🏽 I'm Zarni, Front-end Engineer</h4>  
+<h2 align="center">Hola 👋🏽 I'm Zarni, Web Developer</h4>  
   
 
 - 👨‍💻 I’m currently working at Sprite Lightning Technology Co,ltd  
@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Javascript and Front-end related technologies  
   
 
-- ✅ Quick Fact: Tabs all day!
+- ✅ Big Fact: Tabs all day!
 
   [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htetzarni)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loowmaad@gmail.com)

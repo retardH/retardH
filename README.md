@@ -1,26 +1,10 @@
-<h2 align="center">Hola 👋🏽 I'm Zarni, Web Developer</h4>  
-  
-
-- 👨‍💻 I’m currently working at Sprite Lightning Technology Co,ltd  
-  
-
-- 🌱 I’m currently learning NodeJs and Rust  
-  
-
-- ❓ Ask me about anything related to Javascript and Front-end related technologies  
-  
-
-- ✅ Big Fact: Tabs all day!
-
-  [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htetzarni)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loowmaad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HtetZarni/)
+<h2 align="center">Hi There! 👋🏽 I'm Zarni, Web Developer</h4>  
   
 
 <br/>  
 
 
-<h2>Main Technologies I use</h4>   
+<h2>Tech Stack</h4>   
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
@@ -48,7 +32,13 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=retardH&show_icons=true&count_private=true&hide_border=true" align="center" />
 
+<br />
 
+<h2>Contact Me</h4>   
+ 
 
+  [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htetzarni)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loowmaad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HtetZarni/)
 
 

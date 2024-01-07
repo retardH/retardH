@@ -1,4 +1,4 @@
-<h2 align="center">Hi There! I'm Zarni, Web Developer</h4>  
+<h2 align="center">Hi There! I'm Zarni, A Junior Software Engineer from Yangon</h4>  
   
 
 <br/>  

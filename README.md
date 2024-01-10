@@ -17,6 +17,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
 ![VueJs](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=vue.js)
 ![NextJs](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=next.js)
+![NodeJs](https://img.shields.io/badge/-Node.Js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
  ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
  ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)

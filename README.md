@@ -1,43 +1,12 @@
-<h2 align="center">Hi There! I'm Zarni, A Junior Software Engineer from Yangon</h4>  
-  
+<h2 align="left">Hey There!</h4>  
+<p>I'm Zarni, a junior software engineer from Yangon. I mainly develop user interactive web applications and I'm working on both front-end and back-end to become a full-stack engineer. I'm open to work and any freelance projects, too.</p>
 
-<br/>  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,mui,js,typescript,react,vue,next,nodejs,git)](https://skillicons.dev)
 
-
-<h2>Tech Stack</h4>   
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
-
- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
-![VueJs](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=vue.js)
-![NextJs](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=next.js)
-![NodeJs](https://img.shields.io/badge/-Node.Js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
-
- ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
- ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)
- ![Gitlab](http://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=Gitlab)
- 
-
-
-
- 
-<br/>  
-
-
-## Github Stats  
+<h2>Github Stats</h2>  
 <img src="https://github-readme-stats.vercel.app/api?username=retardH&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-<br />
-
-<h2>Contact Me</h4>   
- 
+<h2>Let's Connect!</h4>   
 
   [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htetzarni)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loowmaad@gmail.com)

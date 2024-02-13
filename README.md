@@ -1,5 +1,5 @@
 <h2 align="left">HELLO THERE ...👋</h4>  
-<p>I'm Zarni, a junior software engineer from Yangon. I enjoy building user interactive and visually appearing web applications. I'm working on both front-end and back-end to become a full-stack engineer. I'm open to work and any freelance projects, too.</p>
+<p>I'm Zarni, a junior web developer from Yangon. I enjoy building user interactive and visually appearing web applications. I'm working on both front-end and back-end to become a full-stack engineer. I'm open to work and any freelance projects, too.</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,mui,styledcomponents,js,typescript,react,vue,next,nodejs,express,mongodb,prisma,git)](https://skillicons.dev)
 
